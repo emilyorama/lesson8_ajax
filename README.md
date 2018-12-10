@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10, 2018
 
 ### Student Name:  
-(First and Last Name)
+Emily Orama
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment utlilized javascript language to produce a movie database page 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned about the data that the server returns to the client as an HTTP Response message through the API documentation 
+2. I learned how to use the $.ajax method 
+3. I also leanred how to use JSON in Movie.js
+4. I learned how to insert an API key so that it retrieves data from the TMDB API server.
+5. The application sends an HTTP Request to the server and the server sends back an HTTP Response
